@@ -1,6 +1,9 @@
 # OCCULT - Patches :: Change Log
 - - -
 
+* 2024-11-18: 1.0.1.0
+	+ Fixed a naming mistake
+
 * 2024-11-17: 1.0.0.0
 	+ Initial release!
 	+ Included patches:
