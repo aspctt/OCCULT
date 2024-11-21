@@ -1,6 +1,12 @@
 # OCCULT - Patches :: Change Log
 - - -
 
+* 2024-11-21: 1.1.0.0
+	+ Added three new patches:
+		- MK2 rebalance
+		- MK2X rebalance
+		- MK3 rebalance
+
 * 2024-11-18: 1.0.1.0
 	+ Fixed a naming mistake
 
