@@ -1,6 +1,9 @@
 # OCCULT - Patches :: Change Log
 - - -
 
+* 2024-11-25: 1.2.0.0
+	+ Added a RR patch for adding fuel to stock wings
+
 * 2024-11-23: 1.1.1.0
 	+ Removed MK3 rebalance as it was mistakenly added
 
