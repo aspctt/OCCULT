@@ -1,8 +1,12 @@
 # OCCULT - Patches :: Change Log
 - - -
 
+* 2024-11-26: 1.2.1.0
+	+ Removed manually added structural option from RR patches
+	+ Made structural an option for all RR patched parts
+
 * 2024-11-25: 1.2.0.0
-	+ Added a RR patch for adding fuel to stock wings
+	+ Added a RR patch for stock wings
 
 * 2024-11-23: 1.1.1.0
 	+ Removed MK3 rebalance as it was mistakenly added
