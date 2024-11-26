@@ -1,5 +1,7 @@
 # OCCULT - Patches :: Change Log
 - - -
+* 2024-11-26: 1.2.2.0
+	+ Fixed a typo in RR_StructuralOption
 
 * 2024-11-26: 1.2.1.0
 	+ Removed manually added structural option from RR patches
