@@ -1,5 +1,9 @@
-# OCCULT - Patches :: Change Log
+# OCCULT - Patch Compendium :: Change Log
 - - -
+
+* 2024-12-01: 1.3.0.0
+	+ Added a patch that buffs the amount of LqdHydrogen you can scoop from Jool's atmo/exosphere
+	
 * 2024-11-26: 1.2.2.0
 	+ Fixed a typo in RR_StructuralOption
 

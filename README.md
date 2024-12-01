@@ -1,9 +1,9 @@
-# OCCULT - Patches
+# OCCULT - Patch Compendium
 - - -
 
 ## Description
 
-OCCULT is a PatchManager submod that consists of different balancing/QoL patches.
+A collection of different patches that bring balancing/QoL changes. Choose which pathces you want via PatchManager!
 
 ## Installation
 
