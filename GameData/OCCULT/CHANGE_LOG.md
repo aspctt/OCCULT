@@ -1,6 +1,14 @@
 # OCCULT - Patch Compendium :: Change Log
 - - -
 
+* 2024-12-06: 1.4.0.0
+	+ Some minor refactors
+	+ Added a RR patch for APP wings
+	+ Added a VABOrganizer patch for KW Rocketry
+	+ Added a VABOrganizer patch for some APP parts
+	+ Added a VABOrganizer patch for some OPT parts
+	+ Fixed fuel values for one of the wings in the fueled stock wings patch
+
 * 2024-12-01: 1.3.0.0
 	+ Added a patch that buffs the amount of LqdHydrogen you can scoop from Jool's atmo/exosphere
 	
