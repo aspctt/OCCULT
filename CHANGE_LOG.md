@@ -1,6 +1,9 @@
 # OCCULT - Patch Compendium :: Change Log
 - - -
 
+* 2024-12-06: 1.4.1.0
+	+ Added missing parts to the APP VABOrganizer patch
+
 * 2024-12-06: 1.4.0.0
 	+ Some minor refactors
 	+ Added a RR patch for APP wings
