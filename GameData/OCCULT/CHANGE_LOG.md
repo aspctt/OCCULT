@@ -1,6 +1,9 @@
 # OCCULT - Patch Compendium :: Change Log
 - - -
 
+* 2024-12-06: 1.4.2.0
+	+ Added missing RR configs to APP tail connectors
+	
 * 2024-12-06: 1.4.1.0
 	+ Added missing parts to the APP VABOrganizer patch
 
