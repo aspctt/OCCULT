@@ -1,6 +1,11 @@
 # OCCULT - Patch Compendium :: Change Log
 - - -
 
+* 2024-12-06: 1.4.3.0
+	+ Added patch for capitalization and reformatting of AJE part titles
+	+ Added patch to remove the stock EL parts
+	+ Made RR_StructuralOption patch optional
+
 * 2024-12-06: 1.4.2.0
 	+ Added missing RR configs to APP tail connectors
 	
