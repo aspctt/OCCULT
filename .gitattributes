@@ -1,0 +1,31 @@
+# Text files: detected automatically, stored and checked out with LF endings.
+# "text=auto" rather than a bare "text" matters. Setting it outright declares
+# every file in the repository to be text, which overrides Git's own detection
+# and strips CR bytes out of binaries as they are committed. Nothing complains:
+# the file is compared after that same normalisation, so it reads as unchanged
+# while what is stored no longer matches what is on disk.
+* text=auto eol=lf
+
+# ModuleManager reads these fine either way, but keeping them LF stops the
+# whole GameData tree from showing as modified when it is edited on Windows.
+*.cfg text eol=lf
+*.version text eol=lf
+
+# Binaries, kept byte for byte. Auto-detection already covers these; naming them
+# is the belt to its braces, since the failure is silent and only shows up in a
+# fresh clone. The KSP asset formats are here for the same reason: several of
+# them are undetectable as binary from their first bytes alone.
+*.dll binary
+*.pdb binary
+*.mu binary
+*.dds binary
+*.mbm binary
+*.tga binary
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.psd binary
+*.ico binary
+*.wav binary
+*.ogg binary
+*.zip binary

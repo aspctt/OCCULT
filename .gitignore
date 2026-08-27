@@ -1,0 +1,60 @@
+###############################################################################
+# OCCULT - .gitignore for a ModuleManager patch mod for Kerbal Space Program
+###############################################################################
+
+## Release output
+# Zips built for CurseForge/SpaceDock/GitHub releases, and any staging folder
+# they are assembled from.
+build/
+dist/
+release/
+*.zip
+
+## IDE / editor cruft
+.idea/
+.vscode/
+.vs/
+*.iml
+.settings/
+.metadata/
+.classpath
+.project
+
+## OS cruft
+.DS_Store
+Thumbs.db
+desktop.ini
+
+## KSP runtime artefacts
+# Written by the game into the install directory when testing patches there.
+# The ModuleManager caches in particular are large, regenerated on every load,
+# and reveal the full mod list of whoever happened to build them.
+ModuleManager.ConfigCache
+ModuleManager.ConfigSHA
+ModuleManager.Physics
+ModuleManager.TechTree
+ModuleManager*.log
+PartDatabase.cfg
+KSP.log
+Player.log
+output_log.txt
+*.craft.bak
+logs/
+
+## Crash artefacts, wherever they land
+crash-reports/
+*.dmp
+
+###############################################################################
+# Local-only reference material. NOT for publication.
+#
+# These hold third-party mod configs and assets, kept locally so patches can be
+# written and tested against the real thing. They are other people's work under
+# other people's licences, several of which forbid redistribution. This mod
+# ships none of them, only patches that reference them by name.
+#
+# Remove an entry only if you deliberately intend to publish it.
+# See NOTICE.
+###############################################################################
+external-files/
+NOTES.md
