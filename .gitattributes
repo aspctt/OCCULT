@@ -6,24 +6,26 @@
 # while what is stored no longer matches what is on disk.
 * text=auto eol=lf
 
-# ModuleManager reads these fine either way, but keeping them LF stops the
-# whole GameData tree from showing as modified when it is edited on Windows.
+# KSP config and metadata. Named outright rather than left to detection, so a
+# Windows text editor saving them with CRLF can never turn a one-line change
+# into a diff of every line.
 *.cfg text eol=lf
 *.version text eol=lf
+*.ckan text eol=lf
+*.netkan text eol=lf
+*.md text eol=lf
 
 # Binaries, kept byte for byte. Auto-detection already covers these; naming them
 # is the belt to its braces, since the failure is silent and only shows up in a
-# fresh clone. The KSP asset formats are here for the same reason: several of
-# them are undetectable as binary from their first bytes alone.
+# fresh clone.
 *.dll binary
-*.pdb binary
 *.mu binary
 *.dds binary
 *.mbm binary
-*.tga binary
 *.png binary
 *.jpg binary
 *.jpeg binary
+*.tga binary
 *.psd binary
 *.ico binary
 *.wav binary
