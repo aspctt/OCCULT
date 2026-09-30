@@ -7,6 +7,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [1.4.4] - 2026-09-30
+
 ### Changed
 
 - Needs KSP 1.9.0 or later, up from 1.8.0, and supports every release up to 1.12.x
@@ -114,7 +116,8 @@ First release.
 - SystemHeat Nuclear Responsiveness: instant throttle response for SystemHeat fission engines
 - Jool Glow on Laythe: a little glow from Jool on Laythe
 
-[Unreleased]: https://github.com/aspctt/OCCULT/compare/1.4.3.0...HEAD
+[Unreleased]: https://github.com/aspctt/OCCULT/compare/1.4.4...HEAD
+[1.4.4]: https://github.com/aspctt/OCCULT/compare/1.4.3.0...1.4.4
 [1.4.3]: https://github.com/aspctt/OCCULT/compare/1.4.2.0...1.4.3.0
 [1.4.2]: https://github.com/aspctt/OCCULT/compare/1.4.1.0...1.4.2.0
 [1.4.1]: https://github.com/aspctt/OCCULT/compare/1.4.0.0...1.4.1.0

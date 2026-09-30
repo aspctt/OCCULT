@@ -1,7 +1,7 @@
 # <p align=center> OCCULT - Patch Compendium </p>
 
 <p align=center>
-	<img alt="Version" src="https://img.shields.io/badge/Version-1.4.3-orange">
+	<img alt="Version" src="https://img.shields.io/badge/Version-1.4.4-orange">
 	<img alt="Available for" src="https://img.shields.io/badge/Available_for-KSP_1.9%2B-blue">
 	<img alt="Requires" src="https://img.shields.io/badge/Requires-Module_Manager_%26_Patch_Manager-blueviolet">
 	<img alt="License" src="https://img.shields.io/badge/License-GPL_3.0-red">
